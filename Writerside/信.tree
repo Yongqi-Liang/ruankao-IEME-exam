@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="信"
+                 name="信息系统管理工程师"
+                 start-page="starter-topic.md">
+
+    <toc-element topic="starter-topic.md">
+        <toc-element topic="计算机硬件基础.md"/>
+    </toc-element>
+</instance-profile>
