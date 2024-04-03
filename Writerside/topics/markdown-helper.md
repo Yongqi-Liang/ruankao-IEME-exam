@@ -54,7 +54,7 @@ ___
 
 表格
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Syntax    | Description |
+|-----------|-------------|
+| Header    | Title       |
+| Paragraph | Text        |
